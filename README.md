@@ -115,7 +115,7 @@ iptables –X
 **== Task ==**
 
 Network: \
-![part5_network](misc/images/part5_network.png)
+![part5_network](src/screenshots/part5_network.jpg)
 
 ##### Start five virtual machines (3 workstations (ws11, ws21, ws22) and 2 routers (r1, r2))
 
